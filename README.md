@@ -4,7 +4,7 @@
 <a href="https://ca.linkedin.com/in/hillarykooba">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
-<a href="https://leetcode.com/hillarykoobah/">
+<a href="https://leetcode.com/hillarykooba/">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="40"/>
 </a>
 <a href="https://github.com/hillarykoobah">
