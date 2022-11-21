@@ -1,4 +1,4 @@
-### Hi, my name is Hardanish Singh
+### Hi, my name is Hillary Samuel Kooba
 
 # Connect with me
 <a href="https://ca.linkedin.com/in/hillarykooba">
